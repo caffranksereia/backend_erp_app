@@ -1,5 +1,4 @@
 import React from 'react';
-import MainHeader from './header';
 
 function SignIn() {
   return (
